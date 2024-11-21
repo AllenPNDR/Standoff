@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MenuScreen",
+            "request": "launch",
+            "mainClass": "MenuScreen" // Ensure this points to MenuScreen
+        }
+    ]
+}
